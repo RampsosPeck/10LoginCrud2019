@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: rgba(1, 50, 67, 1);
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a> 
+                    <a href="https://bluuweb.github.io/tutorial-laravel/vue/#vista-home">Docs</a> 
                     <a href="https://github.com/RampsosPeck/10LoginCrud2019">GitHub</a>
                 </div>
             </div>

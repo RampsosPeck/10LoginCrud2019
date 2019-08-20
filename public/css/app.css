@@ -10644,3 +10644,12 @@ a.text-dark:focus {
   }
 }
 
+.bg-white {
+  background-color: #013243 !important;
+}
+
+.card-header {
+  background-color: #2574a9;
+  border-bottom: 1px solid #013243;
+}
+
